@@ -1,6 +1,6 @@
 
 export default {
-  basePath: '/LarisTrabalhoAtividadeExtensionista/',
+  basePath: '/',
   entryPoints: {
     '': () => import('./main.server.mjs')
   },
